@@ -26,3 +26,5 @@ week2<br>
 
 1/5/2023 <br>
 <p>ทำกับ meeting กับ อาจารย์ยืนยันความสมบูรณ์ของ sprint 1</p>
+
+https://drive.google.com/drive/folders/1ossb59qd75b4ETSS9R3K-DkruVeHvaXv?usp=sharing
